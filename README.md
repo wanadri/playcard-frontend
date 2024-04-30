@@ -1,5 +1,8 @@
 # TLDR ; Create a Front End for Play Card using ReactJS
 
+![Screenshot 2024-04-30 at 4 03 02 PM](https://github.com/wanadri/playcard-frontend/assets/13805716/a1f65926-53b2-485d-a26b-31f3f2c0f502)
+
+
 ### Requirement
 - Node - version 12 and above
 
